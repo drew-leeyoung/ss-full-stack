@@ -7,11 +7,11 @@ A full stack Java and React app for Smarter Sorting
 
 ## Project Setup
 
-`$ mvn clean install`
+`$ ./mvnw.cmd clean install`
 
 ## Running Locally
 
-`$ mvn spring-boot:run`
+`$ ./mvnw.cmd spring-boot:run`
 
 ## Docker
 Pull the latest Mongo Container  
