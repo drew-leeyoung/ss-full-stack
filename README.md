@@ -11,7 +11,7 @@ A full stack Java and React app for Smarter Sorting
 
 ## Running Locally
 
-`$ ./mvnw.cmd spring-boot:run`
+`$ ./mvnw.cmd spring-boot:run`  
 
 ## Docker
 Pull the latest Mongo Container  
@@ -25,3 +25,6 @@ Build the Spring Boot Container
 
 Run the Spring Boot Container  
 `$ docker run -p 8080:8080 ss-full-stack:latest`
+
+## Usage  
+App can be found at [localhost:8080](http://localhost:8080)
